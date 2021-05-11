@@ -1,0 +1,46 @@
+[
+  { "name": "Primer reporte",
+    "description": "La descripción del primer reporte",
+    "image_tag": "a1b2",
+    "report": "primer_reporte.pdf",
+    "results": [
+      "figura_1.png",
+      "figura_2.png",
+      "grafica_1.png",
+      "grafica_2.png",
+      "no_tabla_1.json",
+      "no_tabla_2.json",
+      "tabla_1.csv",
+      "tabla_2.csv"
+    ],
+    "scripts": [
+      "genador_tablas.py",
+      "generador_figuras.R"
+    ],
+    "data": [
+    ],
+    "requirements": []
+  },
+  { "name": "Segundo reporte",
+    "description": "La descripción del segundo reporte",
+    "image_tag": "c3d4",
+    "report": "segundo_reporte.pdf",
+    "results": [
+      "grafica_1.png",
+      "figura_1.png",
+      "figura_2.png",
+      "grafica_2.png",
+      "no_tabla_1.json",
+      "tabla_1.csv",
+      "no_tabla_2.json",
+      "tabla_2.csv"
+    ],
+    "scripts": [
+      "genador_tablas.py",
+      "generador_figuras.R"
+    ],
+    "data": [
+    ],
+    "requirements": []
+  }
+]
